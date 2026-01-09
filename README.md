@@ -32,7 +32,7 @@ It implements a **RESTful API** for uploading and serving files/images (e.g., pr
 ## 📁 Project Structure
 
 ```bash
-File_Upload_API/
+Syntecxhub_File_Upload_API/
 ├── config/
 │   └── db.js                  
 ├── controllers/
@@ -55,8 +55,8 @@ File_Upload_API/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/shaista020/File_Upload_API.git
-cd File_Upload_API
+git clone https://github.com/shaista020/Syntecxhub_File_Upload_API.git
+cd Syntecxhub_File_Upload_API
 
 Install dependencies:
 
